@@ -5,6 +5,7 @@ Today in history application for android
 - MVVM-LiveData
 - Data Binding
 - Retrofit
+- RxJava
 - DI (Dagger2-Hilt)
 
 Data source: [https://api.ubilisim.com/tarihtebugun/](https://api.ubilisim.com/tarihtebugun/ "https://api.ubilisim.com/tarihtebugun/")

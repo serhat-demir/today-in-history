@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Today In History</string>
+
+    <!-- messages -->
+    <string name="msg_internet">Check your internet connection</string>
+    <string name="msg_content">Content couldn\'t loaded</string>
+
+    <!-- card article -->
+    <string name="article_type">Type</string>
+
+    <!-- other -->
+    <string name="date_format">EEEE, MMMM d, yyyy</string>
+
+    <!-- untranslatable -->
+    <string name="type_olay" translatable="false">Olay</string>
+    <string name="type_dogum" translatable="false">Doğum</string>
+    <string name="type_olum" translatable="false">Ölüm</string>
+</resources>

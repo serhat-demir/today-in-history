@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tarihte Bugün</string>
+
+    <!-- messages -->
+    <string name="msg_internet">İnternet bağlantınızı kontrol edin</string>
+    <string name="msg_content">İçerik yüklenemedi</string>
+
+    <!-- card article -->
+    <string name="article_type">Durum</string>
+
+    <!-- other -->
+    <string name="date_format">d MMMM yyyy, EEEE</string>
+</resources>

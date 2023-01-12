@@ -21,6 +21,6 @@ class AppModule {
     @Provides
     @Singleton
     fun provideApiService(): ApiInterface {
-        return ApiClient().getService()
+        return ApiClient.getService()
     }
 }
